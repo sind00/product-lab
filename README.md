@@ -1,11 +1,10 @@
-# Sydney's Product Lab
-## From $0 to $10: The Journey
+# Product Lab
 
 ---
 
 ## What Is This?
 
-This repository contains everything from a structured brainstorming session to identify, validate, and build digital products. The goal: make the first $10 on the internet.
+This repository to identify, validate, and build digital products. 
 
 ---
 
@@ -104,10 +103,3 @@ Key insight: **Find the audience first, then find their problem.**
 - Price point: $5-10 (impulse purchase)
 - Build time per MVP: 1 day ideally
 - Distribution: Organic first (Reddit, TikTok), paid as backup
-
----
-
-## Contact
-
-Sydney
-sindont13@gmail.com
